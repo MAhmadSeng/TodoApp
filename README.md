@@ -1,8 +1,7 @@
-### Getting Started with Create React App
 
-This project was bootstrapped with [Create React App].
+### External Link And Follow For More:
 
-Demo of Todoapp: !(/Ahmaddesign.png)
+- [M Ahmad](https://github.com/MAhmadSeng) <br />
 
 ### External Link And Follow For More:
 
